@@ -31,8 +31,8 @@ We used the **“Tweets and User Engagement”** dataset from Kaggle, which incl
   - BERT was used to extract tweet embeddings  
   - LightGBM trained on top of embeddings to predict engagement  
   - Performance:  
-    - R² = `0.1282`  
-    - MAE = `0.3724`  
+    - R² = `0.134`  
+    - MAE = `0.311`  
     - Accuracy within ±1 = `95.65%`
 
 ### 🔹 Tweet Generation
